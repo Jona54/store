@@ -846,5 +846,22 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
+  },
+		{
+  "name": "Poki",
+  "icon": "https://about.poki.com/assets/img/poki-logo-normal.svg",
+  "type": "game",
+  "data": {
+    "type": "IFrame",
+    "url": "https://poki.com",
+    "gallery": [
+      "https://a.poki.com/icons/twitter2x.png",
+      "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png",
+      "https://d1gzz21cah5pzn.cloudfront.net/img/websites/p/pok/poki.com-desktop@2x.1629682015.jpg"
+    ],
+    "desc": "Poki is an app to play games online for free.",
+    "feat": "Cool games",
+    "invert": true
   }
+}
 }]
